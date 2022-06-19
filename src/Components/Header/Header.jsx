@@ -28,13 +28,13 @@ function Header() {
           </h1>
         </div>
         <div className="flex items-center justify-evenly mt-5">
-          <a href="">
+          <a href="https://github.com/AlbabRiziq">
             <img src={github} alt="" />
           </a>
-          <a href="">
+          <a href="https://www.facebook.com/albab.riziq">
             <img src={facebook} alt="" />
           </a>
-          <a href="">
+          <a href="https://www.instagram.com/albabriziq_/">
             <img src={ig} alt="" />
           </a>
         </div>

@@ -17,11 +17,11 @@ function About() {
           />
         </div>
         <div className="m-5 flex flex-col items-center ">
-          <p className="text-xs w-96 text-justify mb-5">
+          <p className="text-xs w-80 md:w-96 text-justify mb-5">
             Hi my name is Riziq Lili Ulil Albab. I'm from Indonesia. I was born
             on October 1st, 2006. And I'm a Junior Web Developer
           </p>
-          <a href="" className="">
+          <a href="https://wa.me/message/KJL5XZYGFLQDG1" className="">
             <p className="bg-slate-100 w-32 text-center py-2 rounded-md hover:rounded-2xl ">
               HIRE ME
             </p>
