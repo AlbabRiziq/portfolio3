@@ -1,6 +1,7 @@
 import About from "./Components/About/About";
 import Header from "./Components/Header/Header";
 import Navbar from "./Components/Navbar/Navbar";
+import Skills from "./Components/Skills/Skills";
 import logo from "./logo.svg";
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         <br />
         <Header />
         <About />
+        <Skills />
       </div>
     </div>
   );

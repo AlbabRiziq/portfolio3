@@ -22,8 +22,8 @@ function About() {
             on October 1st, 2006. And I'm a Junior Web Developer
           </p>
           <a href="https://wa.me/message/KJL5XZYGFLQDG1" className="">
-            <p className="bg-slate-100 w-32 text-center py-2 rounded-md hover:rounded-2xl ">
-              HIRE ME
+            <p className="bg-slate-100 w-36 text-center py-2 rounded-md hover:rounded-2xl ">
+              CONTACT ME
             </p>
           </a>
         </div>
